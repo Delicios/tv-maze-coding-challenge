@@ -6,6 +6,7 @@ const StyledDiv  = styled.div`
     color: white;
     padding: 8px 32px;
     font-weight: bolder;
+    margin-bottom: 24px;
 `;
 
 const Header = () => {
