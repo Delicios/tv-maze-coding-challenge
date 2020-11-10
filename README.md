@@ -4,7 +4,9 @@ Quick react-app created for a coding challenge
 ### Todo
 1. Tests!!!
 1. Make links to individual pages work.
-1. Fix styling
+1. Clean up css and fix styling, since zero effort was put into it. (Not sure an app this size benefits from styled components.)
+1. Clean up imports.
+1. Mobile works, but not great. (The search button is pushed down.)
 
 #### --- Default Create React App Info --- 
 
