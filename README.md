@@ -1,5 +1,5 @@
 # Coding Challange 
-Quick react-app created for a coding challenge
+Quick (4 hour) coding challenge.
 
 ### Todo
 1. Tests!!!
